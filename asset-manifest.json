@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adityaparsad01.github.io/csb-4g7qe1/static/css/main.d27466a5.chunk.css",
+    "main.js": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/main.9f81e9e4.chunk.js",
+    "main.js.map": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/main.9f81e9e4.chunk.js.map",
+    "runtime-main.js": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/runtime-main.9e66057d.js",
+    "runtime-main.js.map": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/runtime-main.9e66057d.js.map",
+    "static/js/2.657ad4a3.chunk.js": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/2.657ad4a3.chunk.js",
+    "static/js/2.657ad4a3.chunk.js.map": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/2.657ad4a3.chunk.js.map",
+    "index.html": "https://adityaparsad01.github.io/csb-4g7qe1/index.html",
+    "static/css/main.d27466a5.chunk.css.map": "https://adityaparsad01.github.io/csb-4g7qe1/static/css/main.d27466a5.chunk.css.map",
+    "static/js/2.657ad4a3.chunk.js.LICENSE.txt": "https://adityaparsad01.github.io/csb-4g7qe1/static/js/2.657ad4a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e66057d.js",
+    "static/js/2.657ad4a3.chunk.js",
+    "static/css/main.d27466a5.chunk.css",
+    "static/js/main.9f81e9e4.chunk.js"
+  ]
+}
